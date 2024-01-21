@@ -38,7 +38,7 @@ Include screenshots of the work day scheduler to give users a visual preview.
 If you would like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - Mention any third-party libraries, frameworks, or tools used in the development of the scheduler.
