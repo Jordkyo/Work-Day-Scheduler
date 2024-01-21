@@ -35,10 +35,10 @@ The Work Day Scheduler is a simple and effective tool to help you organize and m
 Include screenshots of the work day scheduler to give users a visual preview.
 
 ## Contributing
-If you would like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+If you would like to contribute to the project, please content the dev
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU License](LICENSE).
 
 ## Acknowledgments
 - Mention any third-party libraries, frameworks, or tools used in the development of the scheduler.
